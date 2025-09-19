@@ -1,0 +1,7 @@
+{
+    "markdown.preview.fontSize": 16,
+    "markdown.preview.lineHeight": 1.75,
+    "markdown.styles": [
+        ".vscode/github-markdown.css"
+    ]
+}
